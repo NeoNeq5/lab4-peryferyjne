@@ -1,0 +1,14 @@
+D:\c#\lab4\bin\Debug\net10.0\..exe
+D:\c#\lab4\bin\Debug\net10.0\..deps.json
+D:\c#\lab4\bin\Debug\net10.0\..runtimeconfig.json
+D:\c#\lab4\bin\Debug\net10.0\..dll
+D:\c#\lab4\bin\Debug\net10.0\..pdb
+D:\c#\lab4\obj\Debug\net10.0\..GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\lab4\obj\Debug\net10.0\..AssemblyInfoInputs.cache
+D:\c#\lab4\obj\Debug\net10.0\..AssemblyInfo.cs
+D:\c#\lab4\obj\Debug\net10.0\..csproj.CoreCompileInputs.cache
+D:\c#\lab4\obj\Debug\net10.0\..dll
+D:\c#\lab4\obj\Debug\net10.0\refint\..dll
+D:\c#\lab4\obj\Debug\net10.0\..pdb
+D:\c#\lab4\obj\Debug\net10.0\..genruntimeconfig.cache
+D:\c#\lab4\obj\Debug\net10.0\ref\..dll
